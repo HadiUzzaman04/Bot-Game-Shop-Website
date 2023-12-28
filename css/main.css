@@ -2418,6 +2418,14 @@ video {
     padding-bottom: 0.25rem;
   }
 
+  .xs\:pl-5{
+    padding-left: 1.25rem;
+  }
+
+  .xs\:pl-10{
+    padding-left: 2.5rem;
+  }
+
   .xs\:text-base{
     font-size: 1rem;
     line-height: 1.5rem;
@@ -2459,12 +2467,24 @@ video {
     width: 100%;
   }
 
+  .xms\:w-\[220px\]{
+    width: 220px;
+  }
+
   .xms\:max-w-\[20rem\]{
     max-width: 20rem;
   }
 
   .xms\:grid-cols-1{
     grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
+  .xms\:pl-10{
+    padding-left: 2.5rem;
+  }
+
+  .xms\:pl-12{
+    padding-left: 3rem;
   }
 
   .xms\:text-xl{
@@ -2520,6 +2540,18 @@ video {
 
   .xls\:justify-center{
     justify-content: center;
+  }
+
+  .xls\:pl-10{
+    padding-left: 2.5rem;
+  }
+
+  .xls\:pl-12{
+    padding-left: 3rem;
+  }
+
+  .xls\:pl-14{
+    padding-left: 3.5rem;
   }
 
   .xls\:text-xl{
